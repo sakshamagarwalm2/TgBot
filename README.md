@@ -19,7 +19,7 @@ TgBoter is a Telegram chatbot built using Python, the `aiogram` library, and Azu
 ## Installation
 1. **Clone the Repository** (if hosted on GitHub):
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sakshamagarwalm2/TgBot
    cd TgBoter
    ```
 
