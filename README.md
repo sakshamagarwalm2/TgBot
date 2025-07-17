@@ -1,6 +1,6 @@
 # TgBoter - Telegram Chatbot
 
-![https://github.com/sakshamagarwalm2/TgBot/blob/main/Screenshot%202025-07-17%20133204.png]
+!(https://github.com/sakshamagarwalm2/TgBot/blob/main/Screenshot%202025-07-17%20133204.png)
 
 ## Overview
 TgBoter is a Telegram chatbot built using Python, the `aiogram` library, and Azure AI Inference for natural language processing. This project was developed as part of an IIT Jammu assignment to create an interactive chatbot capable of handling text messages and responding intelligently using a GPT model hosted on Azure. The bot supports basic commands like `/start` and `/help` and processes user text inputs with contextual responses.
